@@ -1,2 +1,2 @@
-Makefile linguist-language=Makefile
 *.rs linguist-language=Rust
+Makefile linguist-language=plaintext
