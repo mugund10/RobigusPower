@@ -1,0 +1,14 @@
+[package]
+name = "foundations"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[workspace]
+members = [
+    "ch1",
+    "ch1/hello_world",
+    "ch1/variables",
+    "ch1/guessing_game",
+]
